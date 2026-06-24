@@ -1,0 +1,12 @@
+2026-06-24 15:06:27 [info]: Navigating to https://www.saucedemo.com/
+2026-06-24 15:06:33 [info]: Filling username field with "standard_user"
+2026-06-24 15:06:35 [info]: Filling password field with "wrong-password"
+2026-06-24 15:06:35 [info]: Clicking login button
+2026-06-24 15:08:50 [info]: Navigating to https://www.saucedemo.com/
+2026-06-24 15:08:52 [info]: Filling username field with "standard_user"
+2026-06-24 15:08:52 [info]: Filling password field with "wrong-password"
+2026-06-24 15:08:52 [info]: Clicking login button
+2026-06-24 15:09:24 [info]: Navigating to https://www.saucedemo.com/
+2026-06-24 15:09:25 [info]: Filling username field with "standard_user"
+2026-06-24 15:09:26 [info]: Filling password field with "wrong-password"
+2026-06-24 15:09:26 [info]: Clicking login button

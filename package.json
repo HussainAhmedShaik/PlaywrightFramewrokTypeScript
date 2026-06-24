@@ -1,5 +1,5 @@
 {
-  "name": "playwright-typescript-framework",
+  "name": "playwrightframewroktypeScript",
   "version": "1.0.0",
   "scripts": {
     "test": "cross-env ENV=dev playwright test",

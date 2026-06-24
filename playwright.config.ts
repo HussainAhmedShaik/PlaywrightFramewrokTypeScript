@@ -10,12 +10,12 @@ const timestamp: string =
 console.log(timestamp);
 
 // Load the env file for the active environment.
-// Defaults to "dev" — run with ENV=qa npm test (or one of the npm scripts) to switch.
+// Defaults to "qa" — run with ENV=qa npm test (or one of the npm scripts) to switch.
 const environment = process.env.ENV || 'qa';
 dotenv.config({ path: path.resolve(__dirname, `env/.env.${environment}`) });
 
 export default defineConfig({
-  testDir: './tests',
+  testDir: "./tests",
  
   fullyParallel: true,
 
