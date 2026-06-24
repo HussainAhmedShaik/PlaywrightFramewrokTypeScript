@@ -11,13 +11,14 @@
     "test:ui": "cross-env ENV=dev playwright test --ui",
     "test:chromium": "cross-env ENV=dev playwright test --project=chromium",
     "report": "playwright show-report ./reports",
-    "allure:generate": "allure generate allure-results --clean",
-    "allure:open": "allure open allure-report",
-    "allure:serve": "allure serve allure-results"
+    "allure:generate": "npx allure generate allure-results --clean",
+    "allure:open": "npx allure open allure-report",
+    "allure:serve": "npx allure serve allure-results"
   },
   "devDependencies": {
     "@playwright/test": "^1.55.0",
     "@types/node": "^25.9.3",
+    "allure-commandline": "^2.43.0",
     "allure-playwright": "^3.10.0",
     "cross-env": "^7.0.3",
     "typescript": "^5.0.0"
