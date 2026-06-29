@@ -22,3 +22,7 @@
 2026-06-29 11:33:46 [info]: Filling username field with "standard_user"
 2026-06-29 11:33:48 [info]: Filling password field with "wrong-password"
 2026-06-29 11:33:48 [info]: Clicking login button
+2026-06-29 12:01:06 [info]: Navigating to https://www.saucedemo.com/
+2026-06-29 12:01:06 [info]: Filling username field with "standard_user"
+2026-06-29 12:01:07 [info]: Filling password field with "wrong-password"
+2026-06-29 12:01:07 [info]: Clicking login button
